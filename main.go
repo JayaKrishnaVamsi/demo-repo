@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("third")
 	fmt.Println("4TH")
 	fmt.Println("5TH")
+	fmt.Println("tired of 6th")
 }
